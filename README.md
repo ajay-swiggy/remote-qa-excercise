@@ -24,9 +24,8 @@ __Steps to run the Automation Suite:__
 	python3 -m pytest  tests/maxPointsTests/ --log-cli-level=INFO  --html=report.html --self-contained-html `
 	```
 3. Once the tests have completed execution, the results will be available in the below location:
-	```
-	automation-tests/report.html
-	```
+	[automation-tests/report.html](automation-tests/report.html)
+
 __Automated Tests:__
 
 The automation suite has 3 tests.
