@@ -1,13 +1,3 @@
-# QA Code Excercie
-
-### Problem:
-https://www.notion.so/QA-code-exercise-Briefing-91c1dc0fc84048c2848c9d56f4e2677b
-
-
-### Excercie 1:
-Solution to all questions under Excercise 1 are explained in the file __Excercise-1.md__
-
-### Excercise 2
 
 __Steps to run the Automation Suite:__
 
